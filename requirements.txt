@@ -1,8 +1,0 @@
-langchain
-python-dotenv
-langchain_mistralai
-langchain_core
-streamlit
-langsmith
-openai
-getpass
