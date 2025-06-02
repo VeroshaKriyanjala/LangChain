@@ -5,3 +5,4 @@ langchain_core
 streamlit
 langsmith
 openai
+langchain_community
